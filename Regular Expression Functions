@@ -1,0 +1,2 @@
+select empname from emp where empname like 'K%';
+select empname from emp_ind where empname like 'T%';
